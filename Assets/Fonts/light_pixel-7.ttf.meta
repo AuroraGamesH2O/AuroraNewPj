@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 10298b9fa9ca53748a6ec0aab632b83a
+timeCreated: 1518093604
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Light Pixel-7
+  fontNames:
+  - Light Pixel-7
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

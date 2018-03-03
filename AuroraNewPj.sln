@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuroraNewPj", "AuroraNewPj.csproj", "{4F9E42B8-585F-FB95-ACD6-C26AA2077CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuroraNewPj.Editor", "AuroraNewPj.Editor.csproj", "{94A84CE1-0A1B-4898-A673-34CF05FC1078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F9E42B8-585F-FB95-ACD6-C26AA2077CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9E42B8-585F-FB95-ACD6-C26AA2077CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9E42B8-585F-FB95-ACD6-C26AA2077CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9E42B8-585F-FB95-ACD6-C26AA2077CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A84CE1-0A1B-4898-A673-34CF05FC1078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A84CE1-0A1B-4898-A673-34CF05FC1078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A84CE1-0A1B-4898-A673-34CF05FC1078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A84CE1-0A1B-4898-A673-34CF05FC1078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
